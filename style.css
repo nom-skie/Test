@@ -7,6 +7,27 @@ body{
     align-items: center;
 }
 
+nav{
+    display: flex;
+    gap: 50vw;
+    padding: 0px;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    gap: 1em;
+    list-style-type: none;
+}
+
+img{
+    width: 2em;
+    border-radius: 5px;
+}
+
+
 h1{
     color: red;
     font-size: 3em;
